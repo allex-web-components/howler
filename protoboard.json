@@ -1,0 +1,11 @@
+{
+  "browserify": {
+    "dist/browserified.js": "browserify.js"
+  },
+  "dependencies": {
+    "js": [
+      "node_modules/howler/dist/howler.js",
+      "allex:app:lib"
+    ]
+  }
+}

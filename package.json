@@ -1,0 +1,25 @@
+{
+  "name": "allex_howlerwebcomponent",
+  "version": "1.0.0",
+  "description": "AllexJS webcomponent for managing howler.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-web-components/howler.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "howler",
+    "web",
+    "component"
+  ],
+  "author": "Amdrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-web-components/howler/issues"
+  },
+  "homepage": "https://github.com/allex-web-components/howler#readme"
+}
